@@ -2,7 +2,6 @@
 
 ![SumHealth Logo](https://i.ibb.co/bgr8Mpfb/sumnew.png)
 
-# SumHealth
 ### Healthcare Price Transparency Made Simple
 
 [![Website](https://img.shields.io/badge/Website-sumhealth.org-00D4AA?style=for-the-badge&logo=globe)](https://sumhealth.org)
