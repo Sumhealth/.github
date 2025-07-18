@@ -1,6 +1,6 @@
 <div align="center">
 
-![SumHealth Logo](https://sumhealth.org/assets/logo.png)
+![SumHealth Logo](https://sumhealth.org/assets/logo.png)]
 
 # SumHealth
 ### Healthcare Price Transparency Made Simple
