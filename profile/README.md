@@ -1,6 +1,6 @@
 <div align="center">
 
-![SumHealth Logo](https://github.com/Sumhealth/.github/raw/main/assets/sumnew.png)
+![SumHealth Logo](https://app.devin.ai/attachments/bf33f848-5067-4f01-ad69-f1fbbe2baf91/sumnew.png)
 
 # SumHealth
 ### Healthcare Price Transparency Made Simple
