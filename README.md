@@ -47,7 +47,7 @@ Making healthcare pricing transparent, accessible, and actionable for everyone i
 
 | Metric | Value |
 |:---|---:|
-| **Healthcare Providers** | 50,000+ |
+| **Healthcare Providers** | 5000+ |
 | **Total Savings Generated** | $2.3B+ |
 | **Price Comparisons** | 1M+ |
 | **Customer Satisfaction** | 98% |
