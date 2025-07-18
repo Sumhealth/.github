@@ -55,17 +55,6 @@ Making healthcare pricing transparent, accessible, and actionable for everyone i
 
 </div>
 
-## 🛠️ Technology Stack
-
-We leverage cutting-edge technology to deliver enterprise-grade healthcare transparency solutions:
-
-- **Backend**: FastAPI, Python, PostgreSQL, Redis
-- **Data Processing**: Apache Spark, DuckDB, Pandas
-- **Cloud Infrastructure**: Kubernetes, Docker, AWS/Linode
-- **Security**: JWT Authentication, HIPAA Compliance, SOC 2 Type II
-- **Analytics**: Real-time data pipelines, Machine Learning models
-- **API**: RESTful APIs with comprehensive documentation
-
 ## 🌟 Why Choose SumHealth?
 
 ### 🎯 **For Patients**
