@@ -26,7 +26,7 @@ Making healthcare pricing transparent, accessible, and actionable for everyone i
 
 | 🔍 **Price Discovery** | 📊 **Data Analytics** | 🏥 **Provider Network** | 💡 **Smart Insights** |
 |:---:|:---:|:---:|:---:|
-| Real-time price comparison across 50,000+ providers | Advanced analytics on $2.3B+ in healthcare savings | Comprehensive provider quality ratings | AI-powered cost recommendations |
+| Real-time price comparison across 5000+ providers | Advanced analytics on $2.3B+ in healthcare savings | Comprehensive provider quality ratings | AI-powered cost recommendations |
 
 </div>
 
